@@ -1,0 +1,8 @@
+.trc-invest-list-wrap .swiper-tab ul .activity a{
+    background-color: #27a1e5 !important;
+    color: #fff !important;
+}
+.trc-invest-list-wrap>.swiper-tab>ul li a{
+    color: #27a1e5;
+    background-color: #fff;
+}

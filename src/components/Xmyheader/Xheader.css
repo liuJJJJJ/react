@@ -1,0 +1,14 @@
+
+.row {
+    position: relative;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.col-md-24 {
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	padding-left: 16px;
+	padding-right: 16px;
+	zoom: 1
+}
